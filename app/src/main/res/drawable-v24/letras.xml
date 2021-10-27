@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <!--
+    <path
+        android:fillColor="#FF5722"
+        android:pathData="
+           M20,10
+           l-10,0 0,80 10,0
+           M50,10
+           l-40,0 0,10 40,0
+           M50,45
+           l-40,0 0,10 40,0
+           M70,10
+           l-10,0 0,80 10,0
+           M70,10
+           l40,0 0,10 -40,0
+           M70,45
+           l40,0 0,10 -40,0
+           M70,80
+           l40,0 0,10 -40,0
+        "
+        />
+    -->
+    <path
+        android:fillColor="#23BF87"
+        android:pathData="
+            M 10 10
+            l 45 0
+            q 2.5 0, 2.5 2.5
+            l 0 5
+            q 0 2.5, -2.5 2.5
+            l -35 0
+            q -2.5 0, -2.5 2.5
+            l 0 20
+            q 0 2.5, 2.5 2.5
+            l 30 0
+            q 2.5 0, 2.5 2.5
+            l 0 5
+            q 0 2.5, -2.5 2.5
+            l -30 0
+            q -2.5 0, -2.5 2.5
+            l 0 30
+            q 0 2.5, -2.5 2.5
+            l -5 0
+            q -2.5 0, -2.5 -2.5
+            l 0 -75
+            q 0 -2.5, 2.5 -2.5
+            Z
+        "
+        />
+
+    <path
+        android:fillColor="#23BF87"
+        android:pathData="
+            M 62.5 10
+            l 45 0
+            q 2.5 0, 2.5 2.5
+            l 0 5
+            q 0 2.5, -2.5 2.5
+            l -35 0
+            q -2.5 0, -2.5 2.5
+            l 0 20
+            q 0 2.5, 2.5 2.5
+            l 30 0
+            q 2.5 0, 2.5 2.5
+            l 0 5
+            q 0 2.5, -2.5 2.5
+            l -30 0
+            q -2.5 0, -2.5 2.5
+            l 0 20
+            q 0 2.5, 2.5 2.5
+            l 35 0
+            q 2.5 0, 2.5 2.5
+            l 0 5
+            q 0 2.5, -2.5 2.5
+            l -45 0
+            q -2.5 0, -2.5 -2.5
+            l 0 -75
+            q 0 -2.5, 2.5 -2.5
+            Z
+        "
+        />
+
+</vector>
